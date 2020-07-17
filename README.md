@@ -1,0 +1,2 @@
+# HKSspringcloud_config
+hello
